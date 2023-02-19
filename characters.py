@@ -1,0 +1,5 @@
+ai = u'\N{full block}'
+wl = u'\N{dark shade}'
+gl = u'\N{black square}'
+pt = u'\N{light shade}'
+gp = u'\N{medium shade}'
